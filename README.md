@@ -9,5 +9,4 @@ The excel file ```value-add-analysis.xlsx``` can be used to derive quantitiative
 4. Change the "Choice" to your choices (e.g., Tesla vs Hummer)
 5. Change the 1-10 score for each choice by evaluation criteria.
 6. Evaluate the "Weighted Total" and make your choice based on the highest number.
-
-![image](https://user-images.githubusercontent.com/44328319/126077849-a22c1cdd-799d-4b1f-b39d-c7886e0a43cb.png)
+![image](https://user-images.githubusercontent.com/44328319/126077864-e09654bb-a15c-4242-996e-7b6721fe5cf0.png)

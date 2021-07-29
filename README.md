@@ -1,6 +1,6 @@
 # valueaddcomparison
 ## Purpose
-The excel file ```value-add-analysis.xlsx``` can be used to derive quantitiative analysis on any use case from: buying a car, selecting a new job, who on your team to give promotion/bonus/raise, etc.
+The excel file ```value-add-analysis.xlsx``` can be used to derive quantitative analysis on any use case from: buying a car, selecting a new job, who on your team to give promotion/bonus/raise, etc.
 
 ## How to Use
 1. Download the ```value-add-analysis.xlsx``` 
